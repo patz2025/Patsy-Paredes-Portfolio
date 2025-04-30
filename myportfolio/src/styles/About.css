@@ -1,0 +1,55 @@
+.about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 0;
+  padding-left: 40px;
+}
+
+.about-header h1 {
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.about-content {
+  margin-bottom: 50px;
+}
+
+.about-content p {
+  font-size: 22px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+.capabilities {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.capability-column {
+  flex: 1;
+}
+
+.capability-column h2 {
+  font-size: 22px;
+  margin-bottom: 20px;
+  color: #333;
+  text-decoration: underline;
+}
+
+.capability-column ul {
+  list-style-type: none;
+}
+
+.capability-column li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  padding: 4px 0;
+}
+
+@media (max-width: 768px) {
+  .capabilities {
+    flex-direction: column;
+    gap: 30px;
+  }
+}
