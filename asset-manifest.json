@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Patsy-Paredes-Portfolio/static/css/main.b7ca77cd.css",
+    "main.css": "/Patsy-Paredes-Portfolio/static/css/main.b4fcb65e.css",
     "main.js": "/Patsy-Paredes-Portfolio/static/js/main.6f3b271e.js",
     "static/media/RecapMM.mp4": "/Patsy-Paredes-Portfolio/static/media/RecapMM.4bdc2693d2e285d380ef.mp4",
     "static/media/RSZero.mp4": "/Patsy-Paredes-Portfolio/static/media/RSZero.52ca48e8af6151a25faf.mp4",
@@ -38,11 +38,11 @@
     "static/media/HulkCoaster.jpeg": "/Patsy-Paredes-Portfolio/static/media/HulkCoaster.98b1a459670e66f8e8eb.jpeg",
     "static/media/SignieHOMEPAGE.png": "/Patsy-Paredes-Portfolio/static/media/SignieHOMEPAGE.12428bb3cdf14ab2e9cd.png",
     "index.html": "/Patsy-Paredes-Portfolio/index.html",
-    "main.b7ca77cd.css.map": "/Patsy-Paredes-Portfolio/static/css/main.b7ca77cd.css.map",
+    "main.b4fcb65e.css.map": "/Patsy-Paredes-Portfolio/static/css/main.b4fcb65e.css.map",
     "main.6f3b271e.js.map": "/Patsy-Paredes-Portfolio/static/js/main.6f3b271e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7ca77cd.css",
+    "static/css/main.b4fcb65e.css",
     "static/js/main.6f3b271e.js"
   ]
 }
